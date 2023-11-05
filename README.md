@@ -24,10 +24,12 @@ In the notebook you can find:
 <li> Data preparation and data cleaning
 <li> EDA
 <li> Model selection process and parameter tuning
+
 https://github.com/olkudrina/diabetes_ml/blob/master/diabetes_project.ipynb
 
 ### Final model
 Final model script can be found here: https://github.com/olkudrina/diabetes_ml/blob/master/xgboost_diabetes_train.py
+
 It consists of loading the dataset, performing transformation, training model and fittin dictvestorizer, as well as exporting model to .bin file for further use.
 
 ### App
@@ -36,10 +38,16 @@ In https://github.com/olkudrina/diabetes_ml/blob/master/diabetes_predict.py the 
 ### Docker
 The file for building image is here: https://github.com/olkudrina/diabetes_ml/blob/master/Dockerfile, with dependencies located here: https://github.com/olkudrina/diabetes_ml/blob/master/requirements.txt
 To create image, please run 
+
 ![image](https://github.com/olkudrina/diabetes_ml/assets/66033001/24ba5d31-42a2-4fae-aebb-8156bbf28353)
+
 To run the service, please use
+
 ![image](https://github.com/olkudrina/diabetes_ml/assets/66033001/df68ac38-73a7-4788-8a22-05d6255c4c7f)
+
 To send the request to the service, please use
+
 ![image](https://github.com/olkudrina/diabetes_ml/assets/66033001/f1ffa034-388b-4bbe-8ece-0112fcea6c81)
+
 
 Developed as mid-term project for ML zoomcamp (https://github.com/DataTalksClub/machine-learning-zoomcamp) 
