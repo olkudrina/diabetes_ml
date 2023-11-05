@@ -8,6 +8,7 @@ Over 90% of people with diabetes have type 2 diabetes, which is driven by socio-
 <li> An ageing population
 <li> Decreasing levels of physical activity
 <li> Increasing overweight and obesity prevalence
+
 However, it is possible to reduce the impact of diabetes by taking preventive measures for type 2 diabetes and providing early diagnosis and proper care for all types of diabetes. These measures can help people living with the condition avoid or delay complications.
 
 
